@@ -1,0 +1,28 @@
+body {
+	background: #FFE;
+	border: solid black;
+	margin: 0px;
+	padding: 20px;
+	}
+h2 {
+	font-family: helvetica, arial, "sans-serif";
+	margin: 0;
+	}
+h3 {
+	font-style: italic;
+	color: #887;
+	margin: 0;
+	}
+a {
+	color: #900;
+	text-decoration: inherit;
+	}
+img {
+	margin-top: 0.5em;
+	border: solid black;
+	}
+footer {
+	font-family: helvetica, arial, "sans-serif";
+	font-size: .83em;
+	color: #887;
+	}
